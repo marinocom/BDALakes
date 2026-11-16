@@ -1,3 +1,5 @@
 # Model outputs and results
 *.nc
 results/
+__pycache__
+.DS_Store
